@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "L:\\שנה ב\\Full Stack\\teacher\\c#++\\MyProject\\Mock\\Mock.csproj": {}
+    "L:\\שנה ב\\Full Stack\\teacher\\c#++\\gitHub\\aaa\\Mock\\Mock.csproj": {}
   },
   "projects": {
-    "L:\\שנה ב\\Full Stack\\teacher\\c#++\\MyProject\\Mock\\Mock.csproj": {
+    "L:\\שנה ב\\Full Stack\\teacher\\c#++\\gitHub\\aaa\\Mock\\Mock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\MyProject\\Mock\\Mock.csproj",
+        "projectUniqueName": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\gitHub\\aaa\\Mock\\Mock.csproj",
         "projectName": "Mock",
-        "projectPath": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\MyProject\\Mock\\Mock.csproj",
-        "packagesPath": "C:\\Users\\s-sys\\.nuget\\packages\\",
-        "outputPath": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\MyProject\\Mock\\obj\\",
+        "projectPath": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\gitHub\\aaa\\Mock\\Mock.csproj",
+        "packagesPath": "C:\\Users\\m-sys\\.nuget\\packages\\",
+        "outputPath": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\gitHub\\aaa\\Mock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\m-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "L:\\שנה ב\\Full Stack\\teacher\\c#++\\MyProject\\Repository\\Repository.csproj": {
-                "projectPath": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\MyProject\\Repository\\Repository.csproj"
+              "L:\\שנה ב\\Full Stack\\teacher\\c#++\\gitHub\\aaa\\Repository\\Repository.csproj": {
+                "projectPath": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\gitHub\\aaa\\Repository\\Repository.csproj"
               }
             }
           }
@@ -81,17 +81,17 @@
         }
       }
     },
-    "L:\\שנה ב\\Full Stack\\teacher\\c#++\\MyProject\\Repository\\Repository.csproj": {
+    "L:\\שנה ב\\Full Stack\\teacher\\c#++\\gitHub\\aaa\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\MyProject\\Repository\\Repository.csproj",
+        "projectUniqueName": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\gitHub\\aaa\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\MyProject\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\s-sys\\.nuget\\packages\\",
-        "outputPath": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\MyProject\\Repository\\obj\\",
+        "projectPath": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\gitHub\\aaa\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\m-sys\\.nuget\\packages\\",
+        "outputPath": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\gitHub\\aaa\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\m-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

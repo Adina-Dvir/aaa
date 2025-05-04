@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "L:\\שנה ב\\Full Stack\\teacher\\c#++\\MyProject\\Common\\Common.csproj": {}
+    "L:\\שנה ב\\Full Stack\\teacher\\c#++\\gitHub\\aaa\\Common\\Common.csproj": {}
   },
   "projects": {
-    "L:\\שנה ב\\Full Stack\\teacher\\c#++\\MyProject\\Common\\Common.csproj": {
+    "L:\\שנה ב\\Full Stack\\teacher\\c#++\\gitHub\\aaa\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\MyProject\\Common\\Common.csproj",
+        "projectUniqueName": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\gitHub\\aaa\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\MyProject\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\s-sys\\.nuget\\packages\\",
-        "outputPath": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\MyProject\\Common\\obj\\",
+        "projectPath": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\gitHub\\aaa\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\m-sys\\.nuget\\packages\\",
+        "outputPath": "L:\\שנה ב\\Full Stack\\teacher\\c#++\\gitHub\\aaa\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\s-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\m-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
